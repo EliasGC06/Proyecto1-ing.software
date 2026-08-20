@@ -4,7 +4,7 @@
 
 **Fecha de la última versión:** 20/08/2026
 
-**Repositorio:** 1
+**Repositorio:** Base de datos
 
 ---
 
@@ -33,7 +33,7 @@
 
 *Instrucción: necesitas al menos dos tipos de usuario con necesidades distintas. Si los dos quieren exactamente lo mismo, probablemente sean el mismo usuario.*
 
-**Un conflicto entre usuarios:**
+**Un conflicto entre usuarios:** 
 
 *Instrucción: describe algo que un usuario quiera y que a otro le estorbe. Ahí está tu primera decisión de diseño real.*
 
