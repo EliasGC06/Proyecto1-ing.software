@@ -1,5 +1,5 @@
 # PROYECTO 1
-**Autor:** Elias Garcia Cisneros
+**Autor:** Elias García Cisneros
 **Fecha de la última versión:**20/08/2026
 **Repositorio:** 1
 
@@ -9,18 +9,18 @@
 
 **Nombre del sistema:** Base de datos e vacantes 
 
-**Descripción:** Es una base de datos sobre las vacantes disponibles, prospectos y el personal que tenemos activo en la empresa. cada prospecto tiene su informacion, nombre, edad, puesto, empresa, horario, localidad donde vive, documentos, urgencia por cubrir la vacnate, comentarios
+**Descripción:** Es una base de datos sobre las vacantes disponibles, prospectos y el personal que tenemos activo en la empresa. cada prospecto tiene su información, nombre, edad, puesto, empresa, horario, localidad donde vive, documentos, urgencia por cubrir la vacanate, comentarios
 
 ---
 
 ## 2. Problema y usuarios
 
 
-**El problema:** Principal problema es que el proceso de contratacion del personal, el cual es muy tardado, complicado y casi en todos los casos hay confuciones en el personal, como tambien confunciones entre las diferentres áreas de la empresa , entre R.H., contaduria, finanzas y corporativo  
+**El problema:** Principal problema es que el proceso de contratación del personal, el cual es muy tardado, complicado y casi en todos los casos hay confusiones en el personal, también entre las diferentes áreas de la empresa , entre R.H., contaduría, finanzas y corporativo  
 
-**Cómo se resuelve hoy sin el sistema:** Con mucha comunicacion entre todos los empleado en el area de R.H.
+**Cómo se resuelve hoy sin el sistema:** Con mucha comunicación entre todos los empleado en el área de R.H.
 
-**Usuarios del sistema:** Principalmente el area de R.H., pero tambien estaria abierto a contaduria, finazas y corporativo; para que estan informados por cualquier circuntancia 
+**Usuarios del sistema:** Principalmente el área de R.H., pero también estaría abierto a contaduría, finanzas y corporativo; para que están informados por cualquier circunstancia.
 
 | Tipo de usuario | Qué necesita del sistema | Qué le preocupa |
 |---|---|---|
