@@ -12,7 +12,7 @@
 
 **Nombre del sistema:** Base de datos e vacantes 
 
-**Descripción:** Es una base de datos sobre las vacantes disponibles, prospectos y el personal que tenemos activo en la empresa. cada prospecto tiene su información, nombre, edad, puesto, empresa, horario, localidad donde vive, documentos, urgencia por cubrir la vacanate, comentarios
+**Descripción:** Es una base de datos sobre las vacantes disponibles, prospectos y el personal que tenemos activo en la empresa. cada prospecto tiene su información como su nombre, edad, puesto, empresa, horario, localidad donde vive, documentos, urgencia por cubrir la vacante, numero de teléfono, escolaridad, correo, problemas médicos, comentarios, etc...
 
 ---
 
