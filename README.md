@@ -45,15 +45,18 @@
 
 ### Dentro del alcance
 
--
--
--
--
+- clasificar la información
+- separar los elementos
+- verificar los elementos
+- registrar nuevos elementos
+- seleccionar elementos en especifico
+- filtrar los elementos 
 
 ### Explícitamente fuera del alcance
 
--
--
+- diseñar elementos
+- comparar entre elementos
+- 
 -
 
 **Por qué queda fuera:**
