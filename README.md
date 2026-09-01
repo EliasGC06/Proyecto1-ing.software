@@ -2,7 +2,7 @@
 
 **Autor:** Elias García Cisneros
 
-**Fecha de la última versión:** 20/08/2026
+**Fecha de la última versión:** 31/08/2026
 
 **Repositorio:** Base de datos
 
